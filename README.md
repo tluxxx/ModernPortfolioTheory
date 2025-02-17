@@ -1,0 +1,1 @@
+This repo contains files developed for teaching learners about the basics of Modern Portfolio Theory. It will provide a practical overview about the topics, by experments, without diving to much in the underlying theories.  
